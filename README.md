@@ -5,7 +5,7 @@
 
 ## ビットマップフォントの使用
 libGDXのメインコードを以下のようにプログラムすると、スコアテキストが画面左上に表示され、画面をタップする毎にスコアが1点加算されます:<br/>
-<img src="https://github.com/kojima/libgdx-hiero-bitmapfont/blob/master/screenshots/game_screen1.png?raw=true" width="320px"/>&nbsp;&nbsp;-(タップ x 2)→&nbsp;&nbsp;<img src="https://github.com/kojima/libgdx-hiero-bitmapfont/blob/master/screenshots/game_screen1.png?raw=true" width="320px" />
+<img src="https://github.com/kojima/libgdx-hiero-bitmapfont/blob/master/screenshots/game_screen1.png?raw=true" width="320px"/>&nbsp;&nbsp;-(タップ x 2)→&nbsp;&nbsp;<img src="https://github.com/kojima/libgdx-hiero-bitmapfont/blob/master/screenshots/game_screen2.png?raw=true" width="320px" />
 ``` java
 package com.hide.hiero;
 
