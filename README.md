@@ -4,7 +4,7 @@
 <a href="https://github.com/kojima/libgdx-hiero-bitmapfont/wiki/Hiero---%E3%83%93%E3%83%83%E3%83%88%E3%83%9E%E3%83%83%E3%83%97%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9">Wikiページ</a>を参考に、ゲームプロジェクトで使用するビットマップフォントを作成します。
 
 ## ビットマップフォントの使用
-libGDXのメインコードを以下のようにプログラムすると、スコアテキストが画面左上に表示され、画面をタップする毎にスコアが1点加算されます:
+libGDXのメインコードを以下のようにプログラムすると、スコアテキストが画面左上に表示され、画面をタップする毎にスコアが1点加算されます:<br/>
 <img src="https://github.com/kojima/libgdx-hiero-bitmapfont/blob/master/screenshots/game_screen1.png?raw=true" width="320px"/>&nbsp;&nbsp;-(タップ x 2)→&nbsp;&nbsp;<img src="https://github.com/kojima/libgdx-hiero-bitmapfont/blob/master/screenshots/game_screen1.png?raw=true" width="320px" />
 ``` java
 package com.hide.hiero;
